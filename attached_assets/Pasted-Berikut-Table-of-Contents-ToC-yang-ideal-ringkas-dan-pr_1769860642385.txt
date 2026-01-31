@@ -1,0 +1,127 @@
+Berikut **Table of Contents (ToC)** yang **ideal, ringkas, dan profesional** untuk **website portofolio kamu** (mahasiswa Informatika + IoT + Web). Ini sudah urutan yang paling aman untuk recruiter, dosen, dan reviewer PKM.
+
+---
+
+## 📑 Table of Contents – Portfolio Website
+
+1. **Hero / Landing**
+2. **About Me**
+3. **Skills / Tech Stack**
+4. **Projects**
+5. **Experience & Education**
+6. **Certificates & Achievements** *(opsional)*
+7. **Contact**
+8. **Footer**
+
+---
+
+## Penjelasan Singkat per Section
+
+### 1. Hero / Landing
+
+* Nama / alias
+* Role utama
+* Short tagline
+* CTA (View Projects, Contact)
+
+---
+
+### 2. About Me
+
+* Ringkasan profesional
+* Fokus minat (IoT, Web, Embedded)
+* Karakter kerja singkat
+
+---
+
+### 3. Skills / Tech Stack
+
+* Programming
+* IoT & Embedded
+* Tools & Software
+
+---
+
+### 4. Projects (**Paling Penting**)
+
+* Project card
+* Deskripsi singkat
+* Tech stack
+* Screenshot / demo
+* GitHub link
+
+---
+
+### 5. Experience & Education
+
+* Pendidikan formal
+* Project akademik
+* Organisasi (jika relevan)
+
+---
+
+### 6. Certificates & Achievements *(Opsional)*
+
+* Sertifikat pelatihan
+* Webinar
+* Prestasi
+
+---
+
+### 7. Contact
+
+* Email
+* GitHub
+* LinkedIn
+* Download CV
+
+---
+
+### 8. Footer
+
+* Copyright
+* Tech stack website
+* Social links
+
+---
+
+## Versi Navigasi (Navbar)
+
+```text
+Home | About | Skills | Projects | Experience | Contact
+```
+
+*(Certificates bisa tidak dimasukkan ke navbar agar tidak terlalu panjang)*
+
+---
+
+## Rekomendasi Tambahan (Opsional)
+
+Jika ingin terlihat **lebih advanced**:
+
+* **Blog / Notes** → dokumentasi belajar IoT / Web
+* **Timeline** → perjalanan belajar & project
+* **Resume Page** → versi online CV
+
+---
+
+### Kesimpulan
+
+Jika kamu hanya mau **clean & efektif**, cukup ini:
+
+```text
+Hero
+About
+Skills
+Projects
+Experience
+Contact
+```
+
+Kalau kamu mau, aku bisa:
+
+* Menyusun **ToC sesuai struktur file React (Hero.jsx, About.jsx, dll)**
+* Menentukan **mana yang 1 halaman vs multi halaman**
+* Menyesuaikan **ToC untuk target magang / PKM / lomba**
+
+Tinggal bilang target utama website kamu apa.
