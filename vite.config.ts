@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 import path from "path";
 
 export default defineConfig({
-  base: '/raenaldiardiansyah.github.io/',
+  base: '/',
   build: {
     outDir: 'docs'  // Change from 'dist' to 'docs'
   },
