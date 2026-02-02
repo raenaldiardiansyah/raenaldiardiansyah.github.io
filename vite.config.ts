@@ -4,7 +4,11 @@ import tailwindcss from "@tailwindcss/vite";
 import path from "path";
 
 export default defineConfig({
-  base: "/PORTOFOLIO/", // USER SITE GitHub Pages
+  base: '/raenaldiardiansyah.github.io/',
+  build: {
+    outDir: 'docs'  // Change from 'dist' to 'docs'
+  },
+
   plugins: [
     react(),
     tailwindcss(),
@@ -15,9 +19,5 @@ export default defineConfig({
       "@shared": path.resolve(import.meta.dirname, "shared"),
       "@assets": path.resolve(import.meta.dirname, "attached_assets"),
     },
-  },
-  build: {
-    outDir: "dist",
-    emptyOutDir: true,
   },
 });
