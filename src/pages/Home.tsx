@@ -16,7 +16,7 @@ import {
 import { Button } from "../components/ui/button";
 import { Badge } from "../components/ui/badge";
 import FeaturedProjectsRail from "../components/ui/featured-projects-rail";
-import { useEffect, useState, useRef } from "react";
+import { useEffect, useRef } from "react";
 
 
 // // Typing Effect Component

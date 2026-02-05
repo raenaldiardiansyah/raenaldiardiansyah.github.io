@@ -5,7 +5,6 @@ import { Button } from "../components/ui/SMART-LOCK DOOR/button";
 export default function Portfolio() {
   return (
     <div className="min-h-screen bg-[#0D0D0D] text-white font-sans selection:bg-white selection:text-black">
-      {/* Hero Image Section */}
       <main className="flex flex-col">
         <div className="w-full aspect-video md:aspect-[21/9] overflow-hidden border-b border-white/10 bg-[#1A1A1A] relative group">
           <img 
@@ -14,8 +13,6 @@ export default function Portfolio() {
             className="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity duration-700"
           />
           <div className="absolute inset-0 bottom-0 h-5/ bg-gradient-to-t from-[#0D0D0D] to transparans" />
-          
-          {/* Subtle overlay info */}
           <div className="absolute bottom-8 left-8 right-8 flex justify-between items-end">
              <div className="space-y-2">
                 <span className="px-2 py-1 bg-white text-black text-[10px] font-bold uppercase tracking-tighter">Featured Project</span>
@@ -24,7 +21,6 @@ export default function Portfolio() {
           </div>
         </div>
 
-        {/* Content Section */}
         <div className="max-w-7xl mx-auto w-full p-8 md:p-16 grid grid-cols-1 md:grid-cols-12 gap-12">
           <div className="md:col-span-4 space-y-8">
             <div>
@@ -49,7 +45,7 @@ export default function Portfolio() {
 
             <div className="pt-8">
               <Button 
-                asChild  
+                asChild
                 variant="outline" 
                 className="w-full rounded-none border-white/20 hover:bg-white hover:text-black transition-all group"
               >

@@ -6,7 +6,7 @@ import path from "path";
 export default defineConfig({
   base: '/',
   build: {
-    outDir: 'docs'  // Change from 'dist' to 'docs'
+    outDir: 'dist'  // Change from 'dist' to 'docs'
   },
 
   plugins: [
