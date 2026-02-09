@@ -50,7 +50,7 @@ export default function Portfolio() {
                 className="w-full rounded-none border-white/20 hover:bg-white hover:text-black transition-all group"
               >
                 <a 
-                  href="https://sweet-taiyaki-a28ad8.netlify.app/"
+                  href="https://agv-iot-dashboard.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
